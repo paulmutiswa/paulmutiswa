@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 -  [Project 60+](https://github.com/paulmutiswa/Project60Plus/tree/main)
-- <b>Spring 2024 PHI Applicants</b>
+-  [Spring 2024 PHI Applicants](https://github.com/paulmutiswa/Spring-2024-PHI-Applicants/tree/main)
 - <b>LATAM - Power BI</b>
 - <b>Full Contact List - Power BI</b>
 - <b>Student Job Stories - Power BI</b>
