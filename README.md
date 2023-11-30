@@ -16,7 +16,7 @@
   - [Applied Technology Associate Degree](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=0200000012fcf33a322a4100d00e212a97065a9f3198437b727fa104a8aa8a81fc02abd1b16d13bae12c6a2c5bd72e3129d9958a7ec105d733329b90642d888009d290b6)
   - [TestOut Network Pro](https://verification.testout.com/verifycert/6-1C6-D6F37)
 
-<h2>📺 YouTube Videos</h2>
+<h2>📺 YouTube Videos:</h2>
 
 - [CS241 Presentation - E-Learning Application](https://https://www.youtube.com/watch?v=zuvB0EwfKn0)
 
