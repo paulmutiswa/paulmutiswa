@@ -6,7 +6,7 @@
 -  [Spring 2024 PHI Applicants](https://github.com/paulmutiswa/Spring-2024-PHI-Applicants/tree/main)
 -  [LATAM](https://github.com/paulmutiswa/LATAM/tree/main)
 -  [Full Contact List](https://github.com/paulmutiswa/Full-Contact-List/tree/main)
-- <b>Student Job Stories - Power BI</b>
+-  [Student Job Stories](https://github.com/paulmutiswa/Student-Job-Stories/tree/main)
  
 <h2>🎓 Certifications:</h2>
 
