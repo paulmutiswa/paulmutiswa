@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/paulmutiswa">Data Analyst</a>, <a href="https://https://www.linkedin.com/in/paulssmutiswa/">Programmer, System Administrator</a>, <a href="https://www.upwork.com/freelancers/~014c08f04eb36c4ee7/">Data Entry, & IT Technician</a></h1>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/paulmutiswa">Data Analyst</a> | <a href="https://https://www.linkedin.com/in/paulssmutiswa/">Programmer | System Administrator</a>, <a href="https://www.upwork.com/freelancers/~014c08f04eb36c4ee7/">Data Entry | IT Technician</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
