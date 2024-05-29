@@ -29,7 +29,7 @@
 [<img align="left" alt="paulmutiswa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 
 [twitter]: https://x.com/paulmutiswa?t=fBO_LUlcQPNupclmGInggw&s=09
-[upwork]: https://www.upwork.com/freelancers/~014c08f04eb36c4ee7
+[upwork]:  https://www.upwork.com/freelancers/~0198b3c11076fc9f2b?mp_source=share
 [linkedin]: https://www.linkedin.com/in/paulssmutiswa
 
 <!--
